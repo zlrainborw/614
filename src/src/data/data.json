@@ -1,0 +1,29 @@
+{
+    "list":[
+        {
+            "title":"满300减30",
+            "img":"./img/1_05.jpg",
+            "price":489
+        },
+        {
+            "title":"满300减50",
+            "img":"./img/1_08.jpg",
+            "price":599
+        },
+        {
+            "title":"3件8折",
+            "img":"./img/1_05.jpg",
+            "price":99
+        },
+        {
+            "title":"满999减100",
+            "img":"./img/1_10.jpg",
+            "price":1299
+        },
+        {
+            "title":"满五免一",
+            "img":"./img/1_12.jpg",
+            "price":39
+        }
+    ]
+}
